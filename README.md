@@ -1,5 +1,5 @@
 # AZ-900
-<p>This Repo helps you <bold>How to work with Azure SQL and COSMOS DB<bold> in VS Code.Follow the below steps</p>
+<p>This Repo helps you <b>How to work with Azure SQL and COSMOS DB<b> in VS Code.Follow the below steps</p>
 <ul>
   <li>Create an Azure Sql Server and a Database while configuring the SQL Server in Azure Portal </li>
   <li>Create login credentials for SQL login.</li>
